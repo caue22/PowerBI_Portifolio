@@ -1,8 +1,3 @@
-Excelente escolha, Caue 👏 — um portfólio unificado vai deixar seu GitHub **profissional e organizado**, mostrando claramente suas habilidades em Power BI.
-Aqui vai um modelo completo e enxuto de **README principal** pra reunir todos os seus dashboards:
-
----
-
 # 📊 **Portfólio Power BI — Caue Garcia**
 
 Bem-vindo(a) ao meu portfólio de projetos desenvolvidos no **Power BI**, com foco em **análise de dados, criação de dashboards interativos e geração de insights estratégicos**.
